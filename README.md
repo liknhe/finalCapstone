@@ -9,13 +9,14 @@ Clone a copy to your machine and hit run!
 
 ## Usage
 Enter action when prompted, some actions include:
-    * as - add shoe
-    * va - view all
-    * re - restock
-    * ss - search shoe
-    * vpi - value per item
-    * sale - identify the shoe with the most inventory
-    * quit - exit
+
+* as - add shoe
+* va - view all
+* re - restock
+* ss - search shoe
+* vpi - value per item
+* sale - identify the shoe with the most inventory
+* quit - exit
 
 ## Credit
 Task 32, Capstone Project IV - Hyperion Dev
